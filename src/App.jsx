@@ -3,3 +3,5 @@ export default function App() {
 }
 // 新增用量看板路由
 export const routes = ['/usage']
+// 深色模式支持
+export const theme = 'dark'
