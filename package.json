@@ -1,1 +1,1 @@
-{ "name": "rel-ci-frontend", "version": "1.0.0", "private": true }
+{ "name": "rel-ci-frontend", "version": "1.0.0", "private": true, "license": "MIT" }
